@@ -1,0 +1,5 @@
+package clone
+
+func clone() {
+
+}

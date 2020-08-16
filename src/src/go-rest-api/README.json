@@ -1,0 +1,23 @@
+{
+  "consumes": [
+    "application/json",
+    "text/plain"
+  ],
+  "produces": [
+    "application/json",
+    "text/html"
+  ],
+  "schemes": [
+    "http",
+    "https"
+  ],
+  "swagger": "2.0",
+  "info": {
+    "description": "This documentation describes  API.",
+    "title": "API.",
+    "license": 
+      "name": "joe",
+      "url": "http://github/joeybdub"
+    },
+    "version": "0.0.1"
+}
